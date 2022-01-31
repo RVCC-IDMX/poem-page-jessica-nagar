@@ -1,4 +1,194 @@
 body{
 
-    color: #000080;
+    background: fixed radial-gradient(  blanchedalmond, rgb(194, 170, 122));
+
+    font-family: 'Vollkorn SC', serif;
+    font-size: larger;
+    font-weight: bold;
+    color: #000000;
+    
+}
+
+img {
+display: block;
+margin-left: auto;
+margin-right: auto;
+max-width: 75%;
+
+border: 10px double #858585;
+
+}
+
+.effect{
+
+    width: 100%;
+    margin-right: 1.5%;
+    position: relative;
+    cursor: pointer;
+
+}
+
+.effect figcaption{
+
+
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    width: 100%;
+    left: 0;
+    text-align: center;
+    font-size: 40px;
+    height: 0px;
+    position: absolute;
+    transition: 0.5s ease all;
+      visibility: hidden;
+      opacity: 0;
+    bottom: 0px;
+}
+
+.effect:hover figcaption{
+
+    background-color: #00000066;
+    visibility: visible;
+    height: 0.5%;
+    padding: 27.25% 0;
+    opacity: 1;
+
+}
+
+h1 {
+text-align: center;
+
+background-image: radial-gradient(  blanchedalmond, rgb(194, 170, 122));
+padding:.23em;
+margin-right:.1em;
+line-height: .7;
+border: 5px double #858585;
+text-shadow: 2px 2px 3px rgb(202, 190, 172);
+box-shadow: 5px 5px 5px rgb(202, 190, 172);
+border-radius: 1.5rem;
+}
+
+h2 {
+
+    text-align: center;
+}
+
+p {
+
+    text-align: center;
+    padding-left: 7rem;
+    padding-right: 7rem;
+
+}
+
+div p:nth-child(1):first-letter{
+
+
+    background-image: radial-gradient(  blanchedalmond, rgb(194, 170, 122));
+    float:left;
+    font-size: 4rem;
+    padding:.23em;
+    margin-right:.1em;
+    line-height: .7;
+    border: 5px double #858585;
+    text-shadow: 2px 2px 3px rgb(202, 190, 172);
+    box-shadow: 5px 5px 5px rgb(202, 190, 172);
+    border-radius: 1.5rem;  
+
+}
+
+div p:nth-child(4):first-letter{
+
+
+    background-image: radial-gradient(  blanchedalmond, rgb(194, 170, 122));
+    float:left;
+    font-size: 4rem;
+    padding:.23em;
+    margin-right:.1em;
+    line-height: .7;
+    border: 5px double #858585;
+    text-shadow: 2px 2px 3px rgb(202, 190, 172);
+    box-shadow: 5px 5px 5px rgb(202, 190, 172);
+    border-radius: 1.5rem;  
+
+}
+
+div p:nth-child(7):first-letter{
+
+
+    background-image: radial-gradient(  blanchedalmond, rgb(194, 170, 122));
+    float:left;
+    font-size: 4rem;
+    padding:.23em;
+    margin-right:.1em;
+    line-height: .7;
+    border: 5px double #858585;
+    text-shadow: 2px 2px 3px rgb(202, 190, 172);
+    box-shadow: 5px 5px 5px rgb(202, 190, 172);
+    border-radius: 1.5rem;  
+
+}
+
+div p:nth-child(10):first-letter{
+
+
+    background-image: radial-gradient(  blanchedalmond, rgb(194, 170, 122));
+    float:left;
+    font-size: 4rem;
+    padding:.23em;
+    margin-right:.1em;
+    line-height: .7;
+    border: 5px double #858585;
+    text-shadow: 2px 2px 3px rgb(202, 190, 172);
+    box-shadow: 5px 5px 5px rgb(202, 190, 172);
+    border-radius: 1.5rem;  
+
+}
+
+div p:nth-child(14):first-letter{
+
+
+    background-image: radial-gradient(  blanchedalmond, rgb(194, 170, 122));
+    float:left;
+    font-size: 4rem;
+    padding:.23em;
+    margin-right:.1em;
+    line-height: .7;
+    border: 5px double #858585;
+    text-shadow: 2px 2px 3px rgb(202, 190, 172);
+    box-shadow: 5px 5px 5px rgb(202, 190, 172);
+    border-radius: 1.5rem;  
+
+}
+
+div p:nth-child(17):first-letter{
+
+
+    background-image: radial-gradient(  blanchedalmond, rgb(194, 170, 122));
+    float:left;
+    font-size: 4rem;
+    padding:.23em;
+    margin-right:.1em;
+    line-height: .7;
+    border: 5px double #858585;
+    text-shadow: 2px 2px 3px rgb(202, 190, 172);
+    box-shadow: 5px 5px 5px rgb(202, 190, 172);
+    border-radius: 1.5rem;  
+
+}
+
+div p:nth-child(20):first-letter{
+
+
+    background-image: radial-gradient(  blanchedalmond, rgb(194, 170, 122));
+    float:left;
+    font-size: 4rem;
+    padding:.23em;
+    margin-right:.1em;
+    line-height: .7;
+    border: 5px double #858585;
+    text-shadow: 2px 2px 3px rgb(202, 190, 172);
+    box-shadow: 5px 5px 5px rgb(202, 190, 172);
+    border-radius: 1.5rem;  
+
 }
